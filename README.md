@@ -4,18 +4,18 @@
 
 **Co-founder of LYHOFF LLC and Frontier Lab · AI builder · Ohio, USA**
 
-I co-own the code of 6 live web projects, from an online shop to an accessibility checker. Every project has a public link and public code. I also set up an AI phone receptionist for small businesses with Twilio.
+I co-own the code of 6 live web projects. Every one has a public link and public code.
 
 ## What we shipped
 
-| Project | What it does | Live | Code |
+| Project | What it does, and the proof | Live | Code |
 |---|---|---|---|
+| **SiteSafe** | Scans a website against WCAG 2.1 AA and tells the owner what to fix, in plain words. Tested end to end in a real browser, with 3 real gaps fixed in production. | [adalawsuitcheck.com](https://adalawsuitcheck.com) | [ada-accessibility-checker](https://github.com/lilyrcolumbus-hash/ada-accessibility-checker) |
+| **ShopLens** | Etsy, Amazon and TikTok Shop orders in one place, with a phone alert for every new order. Browser testing caught 4 bugs, including a CORS error that broke every disconnect button. | [shoplens-7pi.pages.dev](https://shoplens-7pi.pages.dev) | [shoplens](https://github.com/lilyrcolumbus-hash/shoplens) |
+| **Tally** | Log stock and spending by voice, receipt photo or text. One shared calculation now feeds three pages that showed different stock, checked with real numbers. | [tally-6y4.pages.dev](https://tally-6y4.pages.dev) | [tally](https://github.com/lilyrcolumbus-hash/tally) |
 | **LYHOFF Store** | Our own shop in English and Spanish, with its own checkout and no monthly platform fee. One engine and one settings file per brand, reused for a second brand. | [lyhoff.com](https://lyhoff.com) | [lyhoff-web](https://github.com/lilyrcolumbus-hash/lyhoff-web) |
-| **LYHOFF Admin demo** | The owners' control panel for orders, products, customers, discounts and pages. The public demo is read-only. | [lyhoff.com/admin](https://lyhoff.com/admin/) | [lyhoff-web](https://github.com/lilyrcolumbus-hash/lyhoff-web) |
-| **SiteSafe** | Scans a website against WCAG 2.1 AA and tells the owner what to fix, in plain words. | [adalawsuitcheck.com](https://adalawsuitcheck.com) | [ada-accessibility-checker](https://github.com/lilyrcolumbus-hash/ada-accessibility-checker) |
-| **ShopLens** | Etsy, Amazon and TikTok Shop orders in one place, with a phone alert for every new order. | [shoplens-7pi.pages.dev](https://shoplens-7pi.pages.dev) | [shoplens](https://github.com/lilyrcolumbus-hash/shoplens) |
-| **Tally** | Log stock and spending by voice, receipt photo or text. | [tally-6y4.pages.dev](https://tally-6y4.pages.dev) | [tally](https://github.com/lilyrcolumbus-hash/tally) |
-| **Frontier Lab** | A shop and learning site for mushroom growers. Owner and staff roles are enforced in three layers. Public demo, no real payments. | [myfrontierlab.com](https://myfrontierlab.com) | [frontier-lab-shop](https://github.com/lilyrcolumbus-hash/frontier-lab-shop) |
+| **LYHOFF Admin demo** | The owners' control panel for orders, products, customers, discounts and pages. The public demo is read-only, enforced by the server and the database. A database permissions hole was found and closed. | [lyhoff.com/admin](https://lyhoff.com/admin/) | [lyhoff-web](https://github.com/lilyrcolumbus-hash/lyhoff-web) |
+| **Frontier Lab** | A shop and learning site for mushroom growers, on the same engine. Owner and staff roles are enforced in three layers: screen, server and database. Public demo, no real payments. | [myfrontierlab.com](https://myfrontierlab.com) | [frontier-lab-shop](https://github.com/lilyrcolumbus-hash/frontier-lab-shop) |
 
 ## What goes into each one
 - **The software:** built with Claude Code (Next.js, React, TypeScript, Supabase, Stripe, Cloudflare).
