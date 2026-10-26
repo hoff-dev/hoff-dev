@@ -40,8 +40,5 @@ Click a card to open the live project.
 - **The customers:** customer service every day, Stripe payments and Resend email.
 - **An AI phone receptionist** for small businesses, set up with Twilio and other tools.
 
-## Before this
-I ran **GrowthHealth** from 2015 to 2025: I grew medicinal herbs like comfrey, calendula and plantain, and sold them across the US through my own website.
-
 ## Contact
 codebake.SaaS@outlook.com · [lyhoff-web.lilyrcolumbus.workers.dev](https://lyhoff-web.lilyrcolumbus.workers.dev)
