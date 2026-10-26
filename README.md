@@ -36,7 +36,7 @@ Click a card to open the live project.
 
 ## What goes into each one
 - **The software:** built with Claude Code (Next.js, React, TypeScript, Supabase, Stripe, Cloudflare).
-- **The brand and the sales:** logos, product photos and labels made with AI tools, listings on Amazon, Etsy and TikTok Shop, Pinterest.
+- **The brand and the sales:** logos, product photos and labels made with AI tools, listings on Amazon, Etsy and TikTok Shop.
 - **The customers:** customer service every day, Stripe payments and Resend email.
 - **An AI phone receptionist** for small businesses, set up with Twilio and other tools.
 
